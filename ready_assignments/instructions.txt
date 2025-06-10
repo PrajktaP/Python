@@ -1,0 +1,8 @@
+1) run following to create assignment folder and files
+python create_assignment_files.py 
+2) create readme.txt by copying the assignment problems from google drive
+3) cleanup the readme.txt by running following
+python cleanup_readme.py 
+4) check readme contents. make necessary changes
+5) run following
+python copy_problems.py
