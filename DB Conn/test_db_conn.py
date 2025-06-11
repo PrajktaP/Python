@@ -1,6 +1,6 @@
 from conn_config import config
 
-db_name = input("Enter the name of the DB you want to create")
+db_name = input("Enter the name of the DB you want to create: ")
 
 # 1. Connect to MySQL
 conn = config()

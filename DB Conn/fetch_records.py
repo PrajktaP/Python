@@ -4,7 +4,8 @@ from conn_config import config
 conn = config()
 cursor = conn.cursor()
 
-cursor.execute("USE test_python")
+db_name = input("Enter the name of the DB you want to fetch records from: ")
+cursor.execute(f"USE {db_name}")
 
 # 3. Fetch records
 cursor.execute("SELECT * FROM employees")
