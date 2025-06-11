@@ -1,0 +1,51 @@
+1. Install the MySQL Connector:
+The mysql-connector-python module is required. Install it using pip:
+Code
+
+     pip install mysql-connector-python
+
+2. Import the Module:
+In your Python script, import the module:
+Python
+
+     import mysql.connector
+
+3. Establish a Connection:
+Use the mysql.connector.connect() method to create a connection object. You'll need to provide your MySQL server's credentials: 
+Python
+
+     mydb = mysql.connector.connect(
+       host="your_host",       # Usually "localhost" for local servers
+       user="your_username",   # Your MySQL username
+       password="your_password", # Your MySQL password
+       database="your_database"  # The database you want to connect to
+     )
+Replace placeholders with your actual credentials.
+
+4. Create a Cursor:
+A cursor object is used to execute SQL queries. Create it using:
+Python
+
+     mycursor = mydb.cursor()
+
+5. Execute Queries:
+Use the cursor's execute() method to run SQL commands:
+Python
+
+     mycursor.execute("SELECT * FROM your_table")
+Replace "SELECT \* FROM your\_table" with your desired SQL query.
+
+6. Fetch Results:
+Use methods like fetchall(), fetchone(), or fetchmany() to retrieve query results:
+Python
+
+     results = mycursor.fetchall()  # Gets all results
+     for row in results:
+       print(row)
+
+7. Close Connections:
+Close the cursor and connection objects after you're done:
+Python
+
+     mycursor.close()
+     mydb.close()
