@@ -10,6 +10,7 @@ personal python scripts
     - fetching records
 2) File Handling
     - reading records from excel file and inserting into DB table
+3) Http client to access APIs(used 'requests')
 
 
 # Other general codes
