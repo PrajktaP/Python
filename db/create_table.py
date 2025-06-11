@@ -24,15 +24,10 @@ for arg in column_args:
     name, datatype = arg.split(":")
     column_definitions.append(f"{name} {datatype.upper()}")  # Use .upper() for SQL standard
 
-columns_sql = ",\n    ".join(column_definitions)
+columns_sql = ",".join(column_definitions)
 
 # Compose the full CREATE TABLE query
-create_table_sql = f"""
-CREATE TABLE IF NOT EXISTS {table_name} (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    {columns_sql}
-)
-"""
+create_table_sql = f"CREATE TABLE IF NOT EXISTS {table_name} (id INT AUTO_INCREMENT PRIMARY KEY,{columns_sql})"
 
 print(create_table_sql)
 
