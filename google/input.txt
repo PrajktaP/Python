@@ -1,0 +1,5 @@
+15
+1kH4qs-YdB63owztrm-hDsmJz7iLksPY-
+/Users/prajktaphisarekar/Documents/prajkta/secret/google_creds/deep-chimera-463717-g6-dfba8b863c22.json
+/Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments
+readme.txt
