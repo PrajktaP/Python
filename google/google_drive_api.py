@@ -70,7 +70,7 @@ def pull_file_from_google_drive(assignment_no, folder_id, json_file_path, base_f
                     status, done = downloader.next_chunk()
                     print(f"  Download progress: {int(status.progress() * 100)}%")
 
-                print(f"✅ Downloaded: {pdf_path}")
+                print(f"√ Downloaded: {pdf_path}")
 
                 # 2. Read PDF and extract text
                 try:
@@ -86,13 +86,13 @@ def pull_file_from_google_drive(assignment_no, folder_id, json_file_path, base_f
                     f = open(readme_path, 'w', encoding='utf-8')
                     f.write(extracted_text)
 
-                    print(f"✅ Extracted text saved to: {readme_path}")
+                    print(f"√ Extracted text saved to: {readme_path}")
 
                     # Delete the downloaded PDF
                     os.remove(pdf_path)
-                    print(f"🗑️ Deleted PDF file: {pdf_path}")
+                    print(f"√ Deleted PDF file: {pdf_path}")
                 except Exception as e:
-                    print(f"❌ Error reading PDF: {e}")
+                    print(f"X Error reading PDF: {e}")
 
 def main():
     # if len(sys.argv) < 2:
