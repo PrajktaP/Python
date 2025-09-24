@@ -1,0 +1,103 @@
+Sun Jun 15 10:05:21 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1x.py 
+Sun Jun 15 10:05:21 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1xx.py 
+Sun Jun 15 10:05:21 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2x.py 
+Sun Jun 15 10:06:03 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1x.py 
+Sun Jun 15 10:06:03 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1xx.py 
+Sun Jun 15 10:06:03 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2x.py 
+Sun Jun 15 10:15:54 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1x.py 
+Sun Jun 15 10:15:54 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1xx.py 
+Sun Jun 15 10:15:54 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2x.py 
+Time required for execution is: 0.0004999637603759766Sun Jun 15 10:17:06 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1x.py 
+Sun Jun 15 10:17:06 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1xx.py 
+Sun Jun 15 10:17:06 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2x.py 
+Time required for execution is: 0.0005691051483154297Time required for execution is: 0.00044798851013183594
+Sun Jun 15 10:18:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1x.py 
+Sun Jun 15 10:18:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1xx.py 
+Sun Jun 15 10:18:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2x.py 
+Time required for execution is: 0.0005509853363037109
+
+Script started: 1749963042.115642
+Sun Jun 15 10:20:42 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1x.py 
+Sun Jun 15 10:20:42 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1xx.py 
+Sun Jun 15 10:20:42 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2x.py 
+Script ended: 1749963042.11619
+Time required for execution is: 0.0005478858947753906
+
+
+Script started: 2025-06-15 10:24:20
+Script ended: 2025-06-15 10:24:20
+Time required for execution is: 0.0005850791931152344
+
+
+Script started: 2025-06-15 10:24:38
+Sun Jun 15 10:24:38 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1x.py 
+Sun Jun 15 10:24:38 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1xx.py 
+Sun Jun 15 10:24:38 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2x.py 
+Script ended: 2025-06-15 10:24:38
+Time required for execution is: 0.0006070137023925781
+
+
+Script started: 2025-06-15 10:25:11
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 15.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 14.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 10.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 5.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 4.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 7.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 3.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 2.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 6.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 9.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 13.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 8.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 12.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 16.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 3.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 2.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 6.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 11.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 9.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 15.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 8.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 14.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 10.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 13.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 12.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 16.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 5.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 4.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 4.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 12.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 16.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 13.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 14.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 9.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 10.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 8.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 11.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 15.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 7.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 3.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 2.py 
+Sun Jun 15 10:25:11 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 6.py 
+Script ended: 2025-06-15 10:25:11
+Time required for execution is: 0.0032711029052734375
+
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 15.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 14.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 13.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile3 copy 12.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 11.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 9.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 8.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile1 copy 10.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 9.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 8.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 7.py 
+Sun Jun 15 10:29:17 2025 Deleted file /Users/prajktaphisarekar/work/python/python_marvellous/Marvellous-Python-Assignments/Assignment_20/TestX/LogFile2 copy 6.py 
